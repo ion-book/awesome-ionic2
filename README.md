@@ -112,17 +112,8 @@ An "awesome" list of the Ionic 2 resources
 
 #### Open Source Projects
 * [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
-* [IonicRealty](https://github.com/ccoenraets/ionic2-realty)
-* [Ionic Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat)
-* [Ionic Ecommerce App](https://github.com/ionic2blueprints/ionic2-marketcloud)
-* [Ionic Conference App based on Lanyrd API](https://github.com/ionic2blueprints/conference-app)
-* [Ionic Stock Tracking App](https://github.com/ionic2blueprints/ionic2-stockmarket)
-* [Ionic Wordpress Client](https://github.com/ionic2blueprints/ionic2-wp-client)
-* [Ionic Media Player](https://github.com/ionic2blueprints/media-player)
-* [Ionic Social App](https://github.com/ionic2blueprints/social-app)
-* [Ionic 2 Push Notification](https://github.com/aggarwalankush/ionic2-push-base)
 * [Ionic 2 Weather app](https://github.com/aggarwalankush/ionic2-mosum)
-* [Ionic 2 Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader)
+* [Wordpress Hybrid Client](https://github.com/shprink/wordpress-hybrid-client)
 
 #### Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
