@@ -1,7 +1,6 @@
-# Awesome Ionic 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Recursos Ionic
 
-An "awesome" list of the Ionic 2 resources 
-
+Una lista de recursos de Ionic. Que no esta en www.ion-book.com
 ### Ionic 2
 > "Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies."
 
@@ -20,6 +19,9 @@ An "awesome" list of the Ionic 2 resources
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 * [Showcase](http://showcase.ionicframework.com/)
 * [GitHub Repo](https://github.com/driftyco/ionic/)
+
+#### Fundamentos ES6, Typescript, Sass, Cordova, Wepack, Angular
+* [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
 
 #### Ionic 2 Fundamentals
 * [Beginners Guide to Getting Started with Ionic 2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
