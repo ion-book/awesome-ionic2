@@ -35,7 +35,7 @@ Una lista de recursos de Ionic. Que no esta en www.ion-book.com
 * [How To Update Your Application Project and CLI](http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/)
 * [How to Create a Data Model in Ionic 2](http://www.joshmorony.com/how-to-create-a-data-model-in-ionic-2/)
 * [Ionic 2 and External Libraries](http://mhartington.io/post/ionic2-external-libraries/)
-* [Understanding Zones and Change Detection in Ionic 2 & Angular 2] (http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/)
+* [Understanding Zones and Change Detection in Ionic 2 & Angular 2](http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/)
 * [Understanding Ionic 2: Pipe](http://mcgivery.com/understanding-ionic-2-pipe/)
 * [How to Manipulate Data in Ionic 2: Part 1](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/)
 * [How to Manipulate Data in Ionic 2: Part 2](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-2/)
@@ -84,8 +84,8 @@ Una lista de recursos de Ionic. Que no esta en www.ion-book.com
 * [How To Use PouchDB + SQLite For Local Storage In Ionic 2](http://gonehybrid.com/how-to-use-pouchdb-sqlite-for-local-storage-in-ionic-2/)
 * [Adding Background Geolocation to an Ionic 2 Application](http://www.joshmorony.com/adding-background-geolocation-to-an-ionic-2-application/)
 * [Getting Familiar with Local Notifications in Ionic 2](http://www.joshmorony.com/getting-familiar-with-local-notifications-in-ionic-2/)
-* [http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-1/](Create a Nearby Places List with Google Maps in Ionic 2 – Part 1)
-* [http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-2/](Create a Nearby Places List with Google Maps in Ionic 2 – Part 2)
+* [Create a Nearby Places List with Google Maps in Ionic 2 – Part 1](http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-1/)
+* [Create a Nearby Places List with Google Maps in Ionic 2 – Part 2](http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-2/)
 
 #### Backend as a Service
 * [10 Minutes with Ionic 2: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/)
@@ -118,6 +118,9 @@ Una lista de recursos de Ionic. Que no esta en www.ion-book.com
 * [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
 * [Ionic 2 Weather app](https://github.com/aggarwalankush/ionic2-mosum)
 * [Wordpress Hybrid Client](https://github.com/shprink/wordpress-hybrid-client)
+* [Ionic 2 Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader)
+* [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components)
+
 
 #### Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
