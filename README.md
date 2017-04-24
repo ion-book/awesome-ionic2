@@ -22,6 +22,8 @@ Una lista de recursos de Ionic. Que no esta en www.ion-book.com
 
 #### Fundamentos ES6, Typescript, Sass, Cordova, Wepack, Angular
 * [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
+* [A Functional Programmer’s Introduction to JavaScript (Composing Software)
+](https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30)
 
 #### Ionic 2 Fundamentals
 * [Beginners Guide to Getting Started with Ionic 2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
