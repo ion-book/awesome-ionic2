@@ -123,13 +123,13 @@ Una lista de recursos de Ionic. Que no esta en www.ion-book.com
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ![paso 1](
-http://www.giphy.com/gifs/3o7bu695W8AWwNhbQQ "Paso 1")
+https://media.giphy.com/media/3o7bu695W8AWwNhbQQ/giphy.gif "Paso 1")
 
 ![paso 2](
-http://www.giphy.com/gifs/3ohzdZ2x3Z2d5dygmc "Paso 2")
+https://media.giphy.com/media/3ohzdZ2x3Z2d5dygmc/giphy.gif "Paso 2")
 
 ![paso 3](
-http://www.giphy.com/gifs/3oKIPab4GHhlWppguQ "Paso 3")
+https://media.giphy.com/media/3oKIPab4GHhlWppguQ/giphy.gif "Paso 3")
 
 #### License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
